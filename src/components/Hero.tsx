@@ -8,12 +8,12 @@ export default function Hero() {
       <h2 className={styles.title}>{personalInfo.title}</h2>
       <p className={styles.tagline}>{personalInfo.tagline}</p>
       <div className={styles.buttonGroup}>
-        <a href="#about" className="btn">Check out my work</a>
         {personalInfo.cvLink && (
           <a href={personalInfo.cvLink} target="_blank" rel="noopener noreferrer" className="btn btn-outline">
             View Resume
           </a>
         )}
+        <a href="#projects" className="btn">View Projects</a>
       </div>
     </section>
   );

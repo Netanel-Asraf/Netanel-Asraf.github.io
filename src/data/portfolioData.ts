@@ -73,6 +73,15 @@ export const projectsData = [
     technologies: ["Java", "C++", "STOMP", "TCP", "Multi-threading", "Concurrency", "Server-Side Programming", "Git", "GitHub"],
     link: "https://github.com/Netanel-Asraf/spl-assignment-3",
     github: "https://github.com/Netanel-Asraf/spl-assignment-3"
+  },
+  {
+    id: 4,
+    title: "Personal Portfolio Website",
+    description: "Designed and developed a highly interactive, responsive personal portfolio. Built with Next.js App Router for optimal performance, featuring a custom dark mode, semantic Vanilla CSS, and a dynamic mouse-tracking spotlight effect.",
+    image: "",
+    technologies: ["Next.js", "React", "TypeScript", "CSS Modules", "GitHub Actions"],
+    link: "https://netanel-asraf.github.io/",
+    github: "https://github.com/Netanel-Asraf/Netanel-Asraf.github.io"
   }
 ];
 
@@ -82,7 +91,7 @@ export const educationData = [
     degree: "B.Sc. in Computer Science",
     institution: "Ben-Gurion University of the Negev",
     date: "2024 - Present",
-    description: "Focusing on software engineering, algorithms, and data structures. Active member of the competitive programming club.",
+    description: "Focusing on software engineering, data structures, and system programming. Building robust software solutions through intensive academic laboratory work.",
     courses: ["Data Structures (100)", "Logic & Set Theory (98)", "Systems Programming (88)", "Discrete Math (88)"],
   },
   {
