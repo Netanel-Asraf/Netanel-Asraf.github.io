@@ -1,0 +1,38 @@
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+
+.name {
+  font-size: clamp(40px, 8vw, 80px);
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  line-height: 1.1;
+}
+
+.title {
+  font-size: clamp(30px, 6vw, 60px);
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+  line-height: 1.1;
+}
+
+.title::after {
+  display: none;
+}
+
+.tagline {
+  max-width: 500px;
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 20px;
+}
+
