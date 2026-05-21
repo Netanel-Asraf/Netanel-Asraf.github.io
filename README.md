@@ -1,8 +1,5 @@
 # Netanel Asraf - Personal Portfolio
-
-Welcome to my personal portfolio repository! I built this website to showcase my professional experience, education, and the software engineering projects I'm passionate about.
-
-## 🚀 About The Project
+## About The Project
 
 This is a highly optimized, fully responsive web application built with modern web technologies. I focused on clean aesthetics, a seamless user experience, and robust code architecture. 
 
@@ -13,20 +10,20 @@ This is a highly optimized, fully responsive web application built with modern w
 - **Type Safety**: Strictly typed with TypeScript.
 - **Continuous Deployment**: Fully automated CI/CD pipeline using GitHub Actions to seamlessly build and deploy static exports directly to GitHub Pages.
 
-## 🛠 Built With
+## Built With
 * [Next.js](https://nextjs.org/)
 * [React](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * Vanilla CSS Modules
 * GitHub Actions
 
-## 🌐 View Live
+## View Live
 
 Check out the live website here: [https://netanel-asraf.github.io/](https://netanel-asraf.github.io/)
 
-## 💻 Getting Started Locally
+## Getting Started Locally
 
-If you'd like to explore the code or run it locally:
+If you'd like to check the code or run it locally:
 
 1. Clone the repository:
    ```bash
