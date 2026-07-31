@@ -93,7 +93,7 @@ export const educationData = [
     institution: "Ben-Gurion University of the Negev",
     date: "Nov 2024 - Present",
     description: "Focusing on software engineering, data structures, and system programming. Building robust software solutions through intensive academic laboratory work.",
-    courses: ["Data Structures (100)", "Logic & Set Theory (98)", "Systems Programming (88)", "Discrete Math (88)"],
+    courses: ["Data Structures (100)", "Logic & Set Theory (98)", "Extended System Programming Laboratory (89)", "Systems Programming (88)", "Discrete Structures and Combinatorics (88)", "Principles of Programming Languages (82)"],
   },
   {
     id: 2,
