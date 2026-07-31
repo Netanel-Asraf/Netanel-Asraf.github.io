@@ -53,26 +53,26 @@ export const projectsData = [
     description: "Built a C++ audio processing engine with a custom LRU cache and strict manual memory management, delivering leak-free, high-performance playlist sessions under repeated load.",
     image: "",
     technologies: ["C++", "Memory Management", "Git", "GitHub"],
-    link: "https://github.com/Netanel-Asraf/spl-assignment-1",
-    github: "https://github.com/Netanel-Asraf/spl-assignment-1"
+    link: "https://github.com/Netanel-Asraf/dj-session-engine.git",
+    github: "https://github.com/Netanel-Asraf/dj-session-engine.git"
   },
   {
     id: 2,
-    title: "Linear Algebra Engine (Java)",
-    description: "Designed and optimized a multithreaded task scheduler that evaluates complex mathematical expressions in parallel over shared memory, eliminating data races while maximizing throughput.",
-    image: "",
-    technologies: ["Java", "Concurrency", "Multi-threading", "Git", "GitHub"],
-    link: "https://github.com/Netanel-Asraf/spl-assignment-2",
-    github: "https://github.com/Netanel-Asraf/spl-assignment-2"
-  },
-  {
-    id: 3,
     title: "World Cup 2026 Informer (C++ / Java)",
     description: "Implemented a real-time STOMP messaging system: a thread-safe Java server paired with a multithreaded C++ client, handling high-concurrency TCP communication without race conditions.",
     image: "",
     technologies: ["Java", "C++", "STOMP", "TCP", "Multi-threading", "Concurrency", "Server-Side Programming", "Git", "GitHub"],
-    link: "https://github.com/Netanel-Asraf/spl-assignment-3",
-    github: "https://github.com/Netanel-Asraf/spl-assignment-3"
+    link: "https://github.com/Netanel-Asraf/world-cup-informer.git",
+    github: "https://github.com/Netanel-Asraf/world-cup-informer.git"
+  },
+  {
+    id: 3,
+    title: "Linear Algebra Engine (Java)",
+    description: "Designed and optimized a multithreaded task scheduler that evaluates complex mathematical expressions in parallel over shared memory, eliminating data races while maximizing throughput.",
+    image: "",
+    technologies: ["Java", "Concurrency", "Multi-threading", "Git", "GitHub"],
+    link: "https://github.com/Netanel-Asraf/linear-algebra-engine.git",
+    github: "https://github.com/Netanel-Asraf/linear-algebra-engine.git"
   }
   // ,
   // {
