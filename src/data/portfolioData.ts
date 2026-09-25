@@ -39,6 +39,8 @@ export const experienceData = [
       {
         title: "Student Machine Learning Engineer",
         date: "15 Sep 2026 - Present",
+        description: "",
+        technologies: [],
       }
     ]
   }
