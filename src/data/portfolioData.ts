@@ -7,7 +7,9 @@ export const personalInfo = {
   cvLink: "/NetanelAsraf.pdf", // Place your PDF in the public folder and update this name
 };
 
-export const aboutContent = `Second-year B.Sc. student in Computer Science graduating in 2028. Participant in the "Atidim" excellence program. Seeking a student role in central or southern Israel. Basmach DevOps graduate with nearly 3 years of Full-Stack & DevOps experience in Ofek 324.`;
+export const aboutContent = `Computer Science student at Ben Gurion University and a participant in the Atidim excellence program.
+Bringing nearly 3 years of practical software development experience from the IAF's Ofek 324 unit as a Basmach DevOps graduate. 
+With a strong foundation in data structures, core software development, and system architecture.`;
 
 export const experienceData = [
   {
