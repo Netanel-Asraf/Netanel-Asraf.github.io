@@ -11,6 +11,20 @@ export const aboutContent = `Second-year B.Sc. student in Computer Science gradu
 
 export const experienceData = [
   {
+    id: 1,
+    company: "Intel",
+    totalDate: "15 Sep 2026 - Present",
+    logo: "/Intel_logo.png",
+    roles: [
+      {
+        title: "Student Machine Learning Engineer",
+        date: "15 Sep 2026 - Present",
+        description: "",
+        technologies: [],
+      }
+    ]
+  },
+  {
     id: 2,
     company: "Ofek 324 Unit (IAF)",
     totalDate: "Dec 2020 - Sep 2023",
@@ -27,20 +41,6 @@ export const experienceData = [
         date: "Dec 2020 - Dec 2021",
         description: "Maintained deployment environments and server-side infrastructure across Linux servers, automating recurring operational tasks with Bash and PowerShell. Monitored system health with Splunk and contributed to version control (Git) and CI workflows (Jenkins).",
         technologies: ["Linux", "Bash", "PowerShell", "Git", "Jenkins", "Splunk"],
-      }
-    ]
-  },
-  {
-    id: 1,
-    company: "Intel",
-    totalDate: "15 Sep 2026 - Present",
-    logo: "/Intel_logo.png",
-    roles: [
-      {
-        title: "Student Machine Learning Engineer",
-        date: "15 Sep 2026 - Present",
-        description: "",
-        technologies: [],
       }
     ]
   }
