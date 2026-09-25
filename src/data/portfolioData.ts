@@ -30,20 +30,18 @@ export const experienceData = [
       }
     ]
   },
-  // {
-  //   id: 2,
-  //   company: "Creative Agency",
-  //   totalDate: "Jan 2020 - Dec 2023",
-  //   logo: "",
-  //   roles: [
-  //     {
-  //       title: "Full Stack Developer",
-  //       date: "Jan 2020 - Dec 2023",
-  //       description: "Developed and maintained multiple client websites and web applications. Collaborated closely with designers to ensure pixel-perfect implementations.",
-  //       technologies: ["JavaScript", "Node.js", "Express", "Sass"],
-  //     }
-  //   ]
-  // }
+  {
+    id: 2,
+    company: "Intel",
+    totalDate: "15 Sep 2026 - Present",
+    logo: "",
+    roles: [
+      {
+        title: "Student Machine Learning Engineer",
+        date: "15 Sep 2026 - Present",
+      }
+    ]
+  }
 ];
 
 export const projectsData = [
