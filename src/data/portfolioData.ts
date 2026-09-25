@@ -11,7 +11,7 @@ export const aboutContent = `Second-year B.Sc. student in Computer Science gradu
 
 export const experienceData = [
   {
-    id: 1,
+    id: 2,
     company: "Ofek 324 Unit (IAF)",
     totalDate: "Dec 2020 - Sep 2023",
     logo: "/ofek-logo.png", // Place your logo image in the public folder and update this name if needed
@@ -31,10 +31,10 @@ export const experienceData = [
     ]
   },
   {
-    id: 2,
+    id: 1,
     company: "Intel",
     totalDate: "15 Sep 2026 - Present",
-    logo: "",
+    logo: "/Intel_logo.png",
     roles: [
       {
         title: "Student Machine Learning Engineer",
